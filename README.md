@@ -1,2 +1,2 @@
-# Web_ApiAspNet_Core_3_DDD
-Webapi AspNetCore 3 utilizando o padrão DDD (Domain Driven Developer)
+# WebApi AspNetCore 3
+Webapi AspNetCore 3 utilizando o padrão em camadas do DDD (Domain Driven Developer).
